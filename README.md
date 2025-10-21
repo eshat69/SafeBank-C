@@ -31,11 +31,11 @@ It allows users to create accounts, deposit and withdraw money, check balances, 
 ---
 ### **📘 Project Structure**
 SafeBank-C/
-│
-├── bank.c              # Main source code
-├── account.dat         # Stores account data (auto-generated)
-├── transaction.txt     # Stores transaction logs (auto-generated)
-└── README.md           # Project documentation
+- │
+- ├── bank.c              # Main source code
+- ├── account.dat         # Stores account data (auto-generated)
+- ├── transaction.txt     # Stores transaction logs (auto-generated)
+- └── README.md           # Project documentation
 ---
 ### 🚀 **How to Run**
 1. Clone the repository:
