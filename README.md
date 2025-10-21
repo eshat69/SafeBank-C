@@ -38,14 +38,17 @@ SafeBank-C/
 - ├── transaction.txt     # Stores transaction logs (auto-generated)
 - └── README.md           # Project documentation
 ---
+
 ### 🚀 **How to Run**
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/SafeBank-C.git
    cd SafeBank-C
-```
+---
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 ---
 ### 👨‍💻 Author
 GitHub: [eshat69](https://github.com/eshat69)
+Email: eshatrahman137173@gmail.com
+
