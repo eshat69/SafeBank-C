@@ -42,6 +42,9 @@ SafeBank-C/
    ```bash
    git clone https://github.com/yourusername/SafeBank-C.git
    cd SafeBank-C
+```
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 ---
-👨‍💻 Author
-github : eshat69 
+### 👨‍💻 Author
+GitHub: [eshat69](https://github.com/eshat69)
