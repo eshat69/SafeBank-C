@@ -4,7 +4,8 @@
 [![Made with C](https://img.shields.io/badge/Made%20with-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue.svg)]()
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue.svg)]()
+
 
 ---
 
